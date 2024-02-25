@@ -1,5 +1,5 @@
 # opencv-notes
 <br>
-This repository is primarily focused on opencv-python. You'll be able to find all the source code for the learning and projects I undertake in opencv-python here.
+This repository contains the notes and code I created while learning python opencv.
 <br>
 Author : Umair Siddique
